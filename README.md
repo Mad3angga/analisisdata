@@ -37,4 +37,4 @@ Proyek ini difokuskan pada analisis data dari E-Commerce Public Dataset, dengan 
    streamlit run dash.py
    ```
    
-   <img src="../data/whole page.png"
+   <img src="../data/whole page.png">
