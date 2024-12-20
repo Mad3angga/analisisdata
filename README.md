@@ -11,7 +11,7 @@ Proyek ini difokuskan pada analisis data dari E-Commerce Public Dataset, dengan 
 ## Folder Direktori
 
 - **/data**: Direktori ini menyimpan file data yang digunakan dalam proyek ini dengan format .csv.
-- **/dashboard**: Direktori ini berisi file `dash.py` yang digunakan untuk membangun dashboard yang menampilkan hasil analisis data, serta file `ipynb` untuk proses analisis data.
+- **/dashboard**: Direktori ini berisi file `dash.py` yang digunakan untuk membangun dashboard yang menampilkan hasil analisis data.
 
 ## Instalasi
 
